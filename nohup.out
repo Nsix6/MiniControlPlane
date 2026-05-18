@@ -1,0 +1,308 @@
+[2026-05-12 20:18:34] Cleanup daemon started
+[2026-05-12 20:18:34] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:18:34] Error destroying environment env-1526f5
+[2026-05-12 20:18:34] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:18:34] Error destroying environment env-2805e0
+[2026-05-12 20:18:34] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:18:34] Error destroying environment env-7985a8
+[2026-05-12 20:18:34] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:18:34] Error destroying environment env-a0d331
+[2026-05-12 20:19:34] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:19:34] Error destroying environment env-1526f5
+[2026-05-12 20:19:34] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:19:34] Error destroying environment env-2805e0
+[2026-05-12 20:19:34] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:19:34] Error destroying environment env-7985a8
+[2026-05-12 20:19:34] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:19:34] Error destroying environment env-a0d331
+[2026-05-12 20:20:34] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:20:34] Error destroying environment env-1526f5
+[2026-05-12 20:20:34] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:20:34] Error destroying environment env-2805e0
+[2026-05-12 20:20:34] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:20:34] Error destroying environment env-7985a8
+[2026-05-12 20:20:34] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:20:34] Error destroying environment env-a0d331
+[2026-05-12 20:21:34] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:21:34] Error destroying environment env-1526f5
+[2026-05-12 20:21:34] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:21:34] Error destroying environment env-2805e0
+[2026-05-12 20:21:35] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:21:35] Error destroying environment env-7985a8
+[2026-05-12 20:21:35] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:21:35] Error destroying environment env-a0d331
+[2026-05-12 20:22:35] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:22:35] Error destroying environment env-1526f5
+[2026-05-12 20:22:35] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:22:35] Error destroying environment env-2805e0
+[2026-05-12 20:22:35] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:22:35] Error destroying environment env-7985a8
+[2026-05-12 20:22:35] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:22:35] Error destroying environment env-a0d331
+[2026-05-12 20:23:35] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:23:35] Error destroying environment env-1526f5
+[2026-05-12 20:23:35] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:23:35] Error destroying environment env-2805e0
+[2026-05-12 20:23:35] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:23:35] Error destroying environment env-7985a8
+[2026-05-12 20:23:35] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:23:35] Error destroying environment env-a0d331
+[2026-05-12 20:24:20] Cleanup daemon started
+[2026-05-12 20:24:35] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:24:35] Error destroying environment env-1526f5
+[2026-05-12 20:24:35] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:24:35] Error destroying environment env-2805e0
+[2026-05-12 20:24:35] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:24:35] Error destroying environment env-7985a8
+[2026-05-12 20:24:35] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:24:35] Error destroying environment env-a0d331
+[2026-05-12 20:25:35] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:25:35] Error destroying environment env-1526f5
+[2026-05-12 20:25:35] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:25:35] Error destroying environment env-2805e0
+[2026-05-12 20:25:35] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:25:35] Error destroying environment env-7985a8
+[2026-05-12 20:25:35] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:25:35] Error destroying environment env-a0d331
+[2026-05-12 20:26:35] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:26:35] Error destroying environment env-1526f5
+[2026-05-12 20:26:35] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:26:35] Error destroying environment env-2805e0
+[2026-05-12 20:26:35] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:26:35] Error destroying environment env-7985a8
+[2026-05-12 20:26:35] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:26:35] Error destroying environment env-a0d331
+[2026-05-12 20:27:35] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:27:35] Error destroying environment env-1526f5
+[2026-05-12 20:27:35] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:27:35] Error destroying environment env-2805e0
+[2026-05-12 20:27:35] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:27:35] Error destroying environment env-7985a8
+[2026-05-12 20:27:35] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:27:35] Error destroying environment env-a0d331
+[2026-05-12 20:28:35] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:28:35] Error destroying environment env-1526f5
+[2026-05-12 20:28:35] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:28:35] Error destroying environment env-2805e0
+[2026-05-12 20:28:36] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:28:36] Error destroying environment env-7985a8
+[2026-05-12 20:28:36] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:28:36] Error destroying environment env-a0d331
+[2026-05-12 20:29:36] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:29:36] Error destroying environment env-1526f5
+[2026-05-12 20:29:36] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:29:36] Error destroying environment env-2805e0
+[2026-05-12 20:29:36] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:29:36] Error destroying environment env-7985a8
+[2026-05-12 20:29:36] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+./platform/cleanup_daemon.sh: line 34: /home/nk/Documents/devops_tasks/devops-sandbox/destroy_env.sh: No such file or directory
+[2026-05-12 20:29:36] Error destroying environment env-a0d331
+[2026-05-12 20:29:36] Cleanup daemon started
+[2026-05-12 20:29:36] Environment env-1526f5 expired (created_at=1778582172 ttl=1800)
+Stopping log shipper process 2050766
+Removing app container: sandbox-env-1526f5-app
+sandbox-env-1526f5-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-1526f5.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/12 19:29:37 [notice] 110#110: signal process started
+Removing network: sandbox-env-1526f5-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-1526f5 to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-1526f5
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-1526f5.json
+Environment env-1526f5 destroyed successfully
+[2026-05-12 20:29:37] Environment env-1526f5 destroyed successfully
+[2026-05-12 20:29:37] Environment env-2805e0 expired (created_at=1778613375 ttl=60)
+Stopping log shipper process 2230064
+Removing app container: sandbox-env-2805e0-app
+sandbox-env-2805e0-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-2805e0.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/12 19:29:37 [notice] 123#123: signal process started
+Removing network: sandbox-env-2805e0-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-2805e0 to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-2805e0
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-2805e0.json
+Environment env-2805e0 destroyed successfully
+[2026-05-12 20:29:37] Environment env-2805e0 destroyed successfully
+[2026-05-12 20:29:37] Environment env-7985a8 expired (created_at=1778582270 ttl=1800)
+Stopping log shipper process 2056983
+Removing app container: sandbox-env-7985a8-app
+sandbox-env-7985a8-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-7985a8.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/12 19:29:37 [notice] 136#136: signal process started
+Removing network: sandbox-env-7985a8-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-7985a8 to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-7985a8
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-7985a8.json
+Environment env-7985a8 destroyed successfully
+[2026-05-12 20:29:37] Environment env-7985a8 destroyed successfully
+[2026-05-12 20:29:37] Environment env-a0d331 expired (created_at=1778582269 ttl=1800)
+Stopping log shipper process 2056779
+Removing app container: sandbox-env-a0d331-app
+sandbox-env-a0d331-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-a0d331.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/12 19:29:38 [notice] 149#149: signal process started
+Removing network: sandbox-env-a0d331-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-a0d331 to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-a0d331
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-a0d331.json
+Environment env-a0d331 destroyed successfully
+[2026-05-12 20:29:38] Environment env-a0d331 destroyed successfully
+[2026-05-13 14:35:43] Health monitor started
+[2026-05-13 15:03:43] Environment env-bebaaf failed health check (status=502, failure_count=1)
+[2026-05-13 15:04:13] Environment env-399cde healthy (latency=29ms)
+[2026-05-13 15:04:13] Environment env-bebaaf healthy (latency=34ms)
+[2026-05-13 15:04:43] Environment env-399cde healthy (latency=15ms)
+[2026-05-13 15:04:44] Environment env-bebaaf healthy (latency=19ms)
+[2026-05-13 15:04:55] Environment env-bebaaf expired (created_at=1778681022 ttl=60)
+Stopping log shipper process 2326101
+Removing app container: sandbox-env-bebaaf-app
+sandbox-env-bebaaf-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-bebaaf.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/13 14:04:56 [notice] 188#188: signal process started
+Removing network: sandbox-env-bebaaf-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-bebaaf to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-bebaaf
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-bebaaf.json
+Environment env-bebaaf destroyed successfully
+[2026-05-13 15:04:56] Environment env-bebaaf destroyed successfully
+[2026-05-13 15:05:14] Environment env-399cde healthy (latency=30ms)
+[2026-05-13 15:05:44] Environment env-399cde healthy (latency=15ms)
+[2026-05-13 15:06:14] Environment env-399cde healthy (latency=13ms)
+[2026-05-13 15:06:44] Environment env-399cde healthy (latency=23ms)
+[2026-05-13 15:07:14] Environment env-399cde healthy (latency=14ms)
+[2026-05-13 15:07:44] Environment env-399cde healthy (latency=32ms)
+[2026-05-13 15:08:14] Environment env-399cde healthy (latency=23ms)
+[2026-05-13 15:08:44] Environment env-399cde healthy (latency=19ms)
+[2026-05-13 15:09:14] Environment env-399cde healthy (latency=14ms)
+[2026-05-13 15:09:44] Environment env-399cde healthy (latency=14ms)
+[2026-05-13 15:10:14] Environment env-399cde healthy (latency=15ms)
+[2026-05-13 15:10:44] Environment env-399cde healthy (latency=22ms)
+[2026-05-13 15:11:14] Environment env-399cde healthy (latency=27ms)
+[2026-05-13 15:11:45] Environment env-399cde healthy (latency=26ms)
+[2026-05-13 15:12:15] Environment env-399cde healthy (latency=25ms)
+[2026-05-13 15:12:45] Environment env-399cde healthy (latency=38ms)
+[2026-05-13 15:13:15] Environment env-399cde healthy (latency=26ms)
+[2026-05-13 15:13:45] Environment env-399cde healthy (latency=17ms)
+[2026-05-13 15:13:56] Environment env-399cde expired (created_at=1778681035 ttl=600)
+Stopping log shipper process 2327537
+Removing app container: sandbox-env-399cde-app
+sandbox-env-399cde-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-399cde.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/13 14:13:57 [notice] 201#201: signal process started
+Removing network: sandbox-env-399cde-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-399cde to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-399cde
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-399cde.json
+Environment env-399cde destroyed successfully
+[2026-05-13 15:13:57] Environment env-399cde destroyed successfully
+[2026-05-13 16:59:15] Environment env-75b305 healthy (latency=60ms)
+[2026-05-13 16:59:45] Environment env-75b305 healthy (latency=13ms)
+[2026-05-13 17:00:15] Environment env-75b305 healthy (latency=15ms)
+[2026-05-13 17:00:45] Environment env-75b305 healthy (latency=17ms)
+[2026-05-13 17:00:56] Environment env-75b305 expired (created_at=1778687951 ttl=60)
+Stopping log shipper process 2365491
+Removing app container: sandbox-env-75b305-app
+sandbox-env-75b305-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-75b305.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/13 16:00:57 [notice] 227#227: signal process started
+Removing network: sandbox-env-75b305-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-75b305 to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-75b305
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-75b305.json
+Environment env-75b305 destroyed successfully
+[2026-05-13 17:00:57] Environment env-75b305 destroyed successfully
+[2026-05-13 17:03:15] Environment env-b08910 failed health check (status=502, failure_count=1)
+[2026-05-13 17:03:45] Environment env-b08910 healthy (latency=52ms)
+[2026-05-13 17:04:19] Environment env-b08910 failed health check (status=502, failure_count=1)
+[2026-05-13 17:04:52] Environment env-b08910 failed health check (status=502, failure_count=2)
+[2026-05-13 17:04:57] Environment env-b08910 expired (created_at=1778688194 ttl=60)
+No active log shipper process found for env-b08910
+Removing app container: sandbox-env-b08910-app
+sandbox-env-b08910-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-b08910.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/13 16:04:57 [notice] 253#253: signal process started
+Removing network: sandbox-env-b08910-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-b08910 to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-b08910
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-b08910.json
+Environment env-b08910 destroyed successfully
+[2026-05-13 17:04:57] Environment env-b08910 destroyed successfully
+[2026-05-13 17:29:22] Environment env-bc0460 healthy (latency=24ms)
+[2026-05-13 17:29:57] Environment env-bc0460 failed health check (status=000, failure_count=1)
+[2026-05-13 17:30:30] Environment env-bc0460 failed health check (status=502, failure_count=2)
+[2026-05-13 17:30:58] Environment env-bc0460 expired (created_at=1778689759 ttl=60)
+No active log shipper process found for env-bc0460
+Removing app container: sandbox-env-bc0460-app
+sandbox-env-bc0460-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-bc0460.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/13 16:30:58 [notice] 279#279: signal process started
+Removing network: sandbox-env-bc0460-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-bc0460 to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-bc0460
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-bc0460.json
+Environment env-bc0460 destroyed successfully
+[2026-05-13 17:30:58] Environment env-bc0460 destroyed successfully

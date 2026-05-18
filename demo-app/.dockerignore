@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# OS / editor files
+.DS_Store
+*.swp
+*.swo
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Node (if frontend assets exist)
+node_modules/
+
+# Tests / docs (if not needed in image)
+tests/
+docs/
