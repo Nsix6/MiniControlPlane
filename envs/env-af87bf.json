@@ -1,0 +1,18 @@
+{
+  "env_id": "env-af87bf",
+  "name": "shortenv",
+  "ttl": "60",
+  "created_at": 1779109090,
+  "network": "sandbox-env-af87bf-net",
+  "app_container": "sandbox-env-af87bf-app",
+  "route_file": "/home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-af87bf.conf",
+  "url": "http://localhost/env-af87bf/",
+  "status": "running",
+  "failure_count": 0,
+  "last_checked": null,
+  "last_response_ms": null,
+  "outage_mode": null,
+  "log_dir": "/home/nk/Documents/devops_tasks/devops-sandbox/logs/env-af87bf",
+  "log_file": "/home/nk/Documents/devops_tasks/devops-sandbox/logs/env-af87bf/app.log",
+  "log_pid": 167880
+}

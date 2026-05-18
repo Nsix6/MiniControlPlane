@@ -1,3 +1,29 @@
-logs/
-envs/
-.env
+# Ignore build artifacts
+*.log
+*.tmp
+*.swp
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# Ignore distribution/packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ignore node modules
+node_modules/
+
+# Ignore Docker junk
+*.pid
+*.sock
