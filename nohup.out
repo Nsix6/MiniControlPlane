@@ -306,3 +306,18 @@ Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-bc04
 Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-bc0460.json
 Environment env-bc0460 destroyed successfully
 [2026-05-13 17:30:58] Environment env-bc0460 destroyed successfully
+[2026-05-18 14:59:14] Cleanup daemon started
+[2026-05-18 14:59:14] Environment env-af87bf expired (created_at=1779109090 ttl=60)
+Stopping log shipper process 167880
+Removing app container: sandbox-env-af87bf-app
+sandbox-env-af87bf-app
+Removing route file: /home/nk/Documents/devops_tasks/devops-sandbox/nginx/conf.d/env-af87bf.conf
+No route file present, skipping nginx reload
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+2026/05/18 13:59:14 [notice] 63#63: signal process started
+Removing network: sandbox-env-af87bf-net
+Archiving logs from /home/nk/Documents/devops_tasks/devops-sandbox/logs/env-af87bf to /home/nk/Documents/devops_tasks/devops-sandbox/logs/archived/env-af87bf
+Deleting state file: /home/nk/Documents/devops_tasks/devops-sandbox/envs/env-af87bf.json
+Environment env-af87bf destroyed successfully
+[2026-05-18 14:59:14] Environment env-af87bf destroyed successfully
